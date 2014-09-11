@@ -3,7 +3,7 @@ Repository for iOS development learning and discussing。
 
 ---
 ###Recommended Books
-- [Objective-C程序设计第4版]()
+- [Objective-C程序设计第4版](http://pan.baidu.com/s/1mg9NQre) (Access code: o6rt)
 - [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 - [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/)
 - [iOS 7 Programming Cookbook](http://pan.baidu.com/s/1bnvTc9T) (Access code: 2ftp)
