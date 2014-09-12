@@ -14,7 +14,7 @@ Repository for iOS development learning and discussing。
 ###Reference Website
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course)
 - [iOS Developer Library](https://developer.apple.com/library/prerelease/ios/navigation/)
-
+- [Objective-C Cheat Sheet](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf)
 ---
 ###Advanced Reading
 - [objc](http://www.objc.io/) Advanced techniques for iOS and OS X development.
