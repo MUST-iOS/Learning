@@ -17,6 +17,17 @@ Repository for iOS development learning and discussing。
 - [Objective-C Cheat Sheet](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf)
 
 ---
+### Useful Official Guide
+- [View Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/windowsviews/conceptual/viewpg_iphoneos/Introduction/Introduction.html)
+- [View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/viewcontrollerpgforiphoneos/Introduction/Introduction.html)
+
+---
+### Other Links
+- [iOS开发如何提高](http://blog.devtang.com/blog/2014/07/27/ios-levelup-tips/)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [iOS8 Day-by-Day](http://www.shinobicontrols.com/iOS8DayByDay)
+
+---
 ###Advanced Reading
 - [objc](http://www.objc.io/) Advanced techniques for iOS and OS X development.
 - [objc Chinese site](http://www.objccn.io/)
