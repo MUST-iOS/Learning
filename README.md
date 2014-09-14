@@ -1,5 +1,5 @@
 #Learning
-Repository for iOS development learning and discussing。
+Repository for iOS development learning and discussing.
 
 ---
 ###Recommended Books
@@ -15,6 +15,11 @@ Repository for iOS development learning and discussing。
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course)
 - [iOS Developer Library](https://developer.apple.com/library/prerelease/ios/navigation/)
 - [Objective-C Cheat Sheet](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf)
+
+---
+###Stanford OpenCourse: Developing iOS 7 Apps for iPhone and iPad
+- [iTunes](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+- [163公开课](http://v.163.com/special/opencourse/ios7.html)
 
 ---
 ### Useful Official Guide
