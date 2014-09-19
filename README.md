@@ -3,7 +3,8 @@ Repository for iOS development learning and discussing.
 
 ---
 ###Recommended Books
-- Objective-C程序设计第4版
+- [Swifter - 100 个 Swift 必备 tips](http://swifter.tips/buy)
+- Objective-C程序设计 (第4版)
 - [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 - [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/)
 - iOS 7 Programming Cookbook
